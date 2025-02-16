@@ -39,7 +39,7 @@ Ensure you have the following installed:
 - NumPy, Matplotlib, Pandas
 - Google Colab (for TPU support)
 ## Acknowledgments
-- Data sourced from [https://www.kaggle.com/datasets/linxvandu/corn-seed-image-classification]. Special thanks to Kaggle for providing access to the training data.
+- Data sourced from https://www.kaggle.com/datasets/linxvandu/corn-seed-image-classification. Special thanks to Kaggle for providing access to the training data.
 ### Clone the Repository
 ```bash
 git clone https://github.com/ssubhashini2004/seed-purity.git
